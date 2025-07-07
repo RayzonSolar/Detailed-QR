@@ -1,1 +1,1 @@
-web: gunicorn qrmakerwebserver:app
+web: gunicorn app:app
